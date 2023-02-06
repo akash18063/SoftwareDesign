@@ -32,3 +32,5 @@ sites
 *.app
 
 *.nix
+.*
+.replit
